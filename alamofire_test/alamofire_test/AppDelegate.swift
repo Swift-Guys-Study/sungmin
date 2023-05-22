@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  OpenAPI
+//  alamofire_test
 //
-//  Created by 조성민 on 2023/05/07.
+//  Created by 조성민 on 2023/05/22.
 //
 
 import UIKit
